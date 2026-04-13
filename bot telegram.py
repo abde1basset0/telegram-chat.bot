@@ -3,7 +3,7 @@ from telegram.ext import Application, MessageHandler, CommandHandler, filters, C
 import random
 import asyncio
 
-TOKEN = "8661718987:AAEcDcKaDuu2_7zCLx5Z7w5ncc73xv1ntl0"
+TOKEN = "YOUR_TOKEN_HERE"
 
 # ─────────────────────────────────────────
 # 🧠 الذاكرة
